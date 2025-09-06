@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/MERN?authMechanism=DEFAULT",
+  "jwtSecret": "secrettoken"
+}
